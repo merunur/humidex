@@ -1,0 +1,120 @@
+.body{
+    font-family: Arial;
+    padding: 30%;
+   background: #f1f1f1;
+    width:80%;
+    
+}
+.searchcard{
+    
+      background-color: white;
+     margin-left: 1%;
+     margin-right:2%;
+     margin-top: 20px;
+     margin-bottom: 20px;
+     padding: 10px;
+}
+.inputdate {
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-style: bold;
+    font-family: "Helvetica", arial, sans-serif;
+    font-size: 18px;
+    height: 50px;
+    width: 20%;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.searchbutton {
+    background-color: #4CAF50;
+    color: white;
+    font-size: 1.3em;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    display: inline-block;
+    height: 50px;
+    width: 20%;
+}
+.chooserange {
+    color: #000;
+    font-style: bold;
+    font-size: 1.5em;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+table.airqualitytable {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 49%;
+    text-align: center;
+    margin-left: 1%;
+    float: left;
+    
+   
+}
+table.airqualitytable td {
+     border: 1px solid #ddd;
+    padding: 8px;
+    
+}
+table.airqualitytable th {
+     border: 1px solid #ddd;
+    padding: 8px;
+}
+table.airqualitytable tr {
+    background-color: #fff;
+}
+table.airqualitytable tr:hover {background-color: #ddd;}
+
+table.airqualitytable th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+}
+
+table.energytable {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 45%;
+    text-align: center;
+    margin-right: 2%;
+     float: left;
+     margin-left: 3%;
+}
+table.energytable tr {
+    background-color: #fff;
+}
+table.energytable td {
+     border: 1px solid #ddd;
+    padding: 8px;
+}
+table.energytable th {
+     border: 1px solid #ddd;
+    padding: 8px;
+}
+
+
+table.energytable tr:hover {background-color: #ddd;}
+
+table.energytable th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+}
